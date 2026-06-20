@@ -137,7 +137,7 @@ All outreach is logged in Google Sheets. Schema defined in `sheets/SCHEMA.md`.
 
 - **Never lead with a pitch.** Lead with what you noticed about THEM.
 - **Be specific.** Reference their actual recent post, company news, or role change.
-- **Short is better.** LinkedIn DMs < 300 chars for connection notes. Messages < 150 words.
+- **Short is better.** LinkedIn DMs < 200 chars for connection notes (free account hard limit). Messages < 150 words.
 - **One ask only.** Don't stack multiple CTAs.
 - **Soft ask.** "Worth a 20-min call?" not "Please respond ASAP."
 - **No superlatives.** Never say "we're the best" or "world-class."

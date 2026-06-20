@@ -65,45 +65,6 @@ Always output BOTH of the following:
 
 ---
 
-## Phil Thomas Example (Zartis — Anthropic Partner)
-
-**Profile signals:**
-- VP of Engineering & AI Transformation at Zartis
-- Zartis is an Anthropic Preferred Partner (Claude Partner Network)
-- Runs Claude Code Labs across Europe (Madrid, London, Berlin)
-- Organized AI Summit 2026 (Valencia, May 2026)
-- Focus: operationalizing AI, "Transformation Trifecta" framework
-- Based in Madrid
-- 10+ years at Zartis
-
-**DM Type:** Partner (Anthropic Partner firm — needs delivery capacity for client engagements)
-
----
-
-**[CONNECTION NOTE]**  
-Hey Phil — saw Zartis just joined the Claude Partner Network. I'm Arslan, CTO at ElectroCom IT. We build AI systems for US clients. Delivery partnership might be worth exploring.
-
-*(178 chars)*
-
----
-
-**[DIRECT MESSAGE]**  
-Hey Phil,
-
-The AI Summit 2026 content was sharp — especially the "organizations who wait have already lost" framing from the Anthropic keynote.
-
-I'm Arslan Noor, CTO at ElectroCom IT (Dallas). We're a lean AI engineering team — I previously founded Effigy.ai through YC and led engineering at SafetyEQ. We specialize in production AI systems: RAG pipelines, agentic workflows, LLM integration on Claude.
-
-As Zartis scales transformation engagements, I imagine delivery capacity for implementation is always a variable. We work at competitive offshore rates with US accountability — might be worth a conversation.
-
-Open to a 20-min call?
-
-Arslan
-
-*(148 words)*
-
----
-
 ## Process Claude Should Follow
 
 When a profile is pasted:
