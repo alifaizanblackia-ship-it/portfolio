@@ -43,11 +43,74 @@
 - Type C (AI Platform Partner): 10
 - Type D (Hiring for Arslan): 5
 
-### Per-lead research checklist (before outreach)
+---
+
+### Step 1 — Company Qualification Filter
+
+Run this before spending time on any individual contact.
+
+**Pass (sweet spot)**
+
+| Signal | Range |
+|---|---|
+| Company size | 10–300 employees |
+| Funding stage | Bootstrapped with revenue, Seed, Series A, Series B |
+| Agency/consultancy size | 15–200 people |
+| Project budget signals | Posts $10k+ projects, hires senior engineers, describes complex builds |
+
+**Auto-skip — Too Big**
+
+- 500+ employees, or has a dedicated vendor procurement team
+- Publicly traded company
+- Enterprise sales cycle (6+ months to get a PO signed)
+- Well-known brand that gets 100+ cold DMs/day (e.g. Stripe, Shopify, McKinsey)
+
+**Auto-skip — Too Small**
+
+- <5 employees with no funding and no clear revenue
+- Solo founder at ideation stage (no product yet, no team)
+- Budget signals: $500–$2k Upwork posts, "looking for the cheapest dev"
+- No LinkedIn presence / ghost company
+
+---
+
+### Step 2 — Decision-Maker Research
+
+One row per company in the tracker. Find the actual person — not info@.
+
+**Who to target by lead type**
+
+| Lead Type | Target role |
+|---|---|
+| Direct Client | Founder, CTO, VP Engineering, Head of Product |
+| Agency Partner | MD, Head of Engineering, Practice Lead, Delivery Director |
+| Anthropic Partner | Head of AI, VP Engineering, Managing Director |
+| Hire (Arslan) | Engineering Director, Head of AI, CTO, Hiring Manager |
+
+**Research steps (use `agents/LEAD_RESEARCH.md`)**
+
+1. Find the company on LinkedIn → check employee count and funding stage → apply qualification filter
+2. Search employees by title — find the right decision-maker
+3. Pull: full name, exact title, LinkedIn URL, connection degree, mutual connections
+4. Check their last 3 posts for a hook
+5. Log to Sheet (one row per person, not per company) and mark `Status = New`
+
+**Required fields before any outreach is sent**
+
+- [ ] Full name confirmed (not a job title placeholder)
+- [ ] Exact role confirmed (copy from their LinkedIn headline)
+- [ ] LinkedIn URL in the Sheet
+- [ ] Hook identified (specific post, announcement, or signal)
+- [ ] DM type chosen (Partner / Client / Hire)
+
+---
+
+### Per-lead checklist (before writing the DM)
+- [ ] Company passed qualification filter
+- [ ] Decision-maker identified (name + exact role + LinkedIn URL)
 - [ ] Check connection degree
-- [ ] Read their 3 most recent posts
+- [ ] Read their 3 most recent posts — pick the best hook
 - [ ] Note company news / product launches / funding
-- [ ] Identify their pain point (hiring? scaling? AI adoption?)
 - [ ] Choose DM type: client / partner / hire
 
 ---

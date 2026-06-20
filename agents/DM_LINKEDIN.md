@@ -36,7 +36,7 @@ ElectroCom IT is a US-registered company with a dev team in Pakistan. We build w
 Always output BOTH of the following:
 
 ### 1. Connection Request Note
-*(Use this when NOT yet connected — must be ≤ 300 characters)*
+*(Use this when NOT yet connected — must be ≤ 200 characters, LinkedIn free account hard limit)*
 
 ```
 [CONNECTION NOTE]
@@ -81,9 +81,9 @@ Always output BOTH of the following:
 ---
 
 **[CONNECTION NOTE]**  
-Hey Phil — been following the Claude Code Labs rollout across Europe. Impressive how Zartis is turning AI adoption theory into working production systems. I'm Arslan, CTO at ElectroCom IT. Would love to connect — there may be delivery partnership angles worth exploring.
+Hey Phil — saw Zartis just joined the Claude Partner Network. I'm Arslan, CTO at ElectroCom IT. We build AI systems for US clients. Delivery partnership might be worth exploring.
 
-*(299 chars)*
+*(178 chars)*
 
 ---
 
@@ -111,7 +111,7 @@ When a profile is pasted:
 1. **Identify:** name, title, company, location, connection degree, 2–3 recent posts or activities
 2. **Categorize:** which DM type fits? (Partner / Direct Client / Anthropic Partner / Hire)
 3. **Find the hook:** what specific thing can I reference that shows I actually looked at their profile?
-4. **Draft connection note** (≤300 chars): hook → who I am → soft ask
+4. **Draft connection note** (≤200 chars, LinkedIn free account hard limit): hook → who I am → soft ask. Always include char count in output.
 5. **Draft DM** (≤150 words): hook → 1 sentence on me → 1 sentence value framing → soft ask
 6. **Check:** no banned phrases, no feature pitch, one ask only, written as Arslan
 7. **Output** both with the `[CONNECTION NOTE]` and `[DIRECT MESSAGE]` labels

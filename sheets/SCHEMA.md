@@ -46,7 +46,8 @@
 | O | Deal Type | Dropdown | `Project` / `Retainer` / `Staff Augmentation` / `Partnership` / `Remote Role` |
 | P | Estimated Budget | Dropdown | `<$5k` / `$5k–$20k` / `$20k–$50k` / `$50k–$100k` / `$100k+` / `Unknown` |
 | Q | Priority | Dropdown | `High` / `Medium` / `Low` |
-| R | Hook / Why Outreach | Text | What made them worth reaching out to (specific post, event, role change) |
+| R | Lead Score | Number | 1–10 score from LEAD_RESEARCH agent — determines outreach priority |
+| S | Hook / Why Outreach | Text | What made them worth reaching out to (specific post, event, role change) |
 
 ---
 

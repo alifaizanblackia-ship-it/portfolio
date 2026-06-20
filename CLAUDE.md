@@ -116,6 +116,7 @@ Engineering Directors, Heads of AI, CTOs at companies posting senior AI engineer
 
 | File | Purpose |
 |---|---|
+| `agents/LEAD_RESEARCH.md` | Paste a company/person → get qualified/skip verdict + score + decision-maker card |
 | `agents/DM_LINKEDIN.md` | Paste a LinkedIn profile → get a personalized DM |
 | `agents/EMAIL_OUTREACH.md` | Paste a company/person page → get a cold email (subject + body) |
 | `agents/FOLLOW_UP.md` | Paste thread history → get the right follow-up message |
