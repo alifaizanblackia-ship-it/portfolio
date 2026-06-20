@@ -20,7 +20,7 @@
 
 ### Leadership
 **Zulfiqar Saeed** — CEO (founder, 30+ years in tech/IT)  
-**Arslan Noor** — CTO (Senior AI Engineer, Y Combinator founder, ex-SafetyEQ, ex-Beam Data)
+**Arslan Noor** — CTO (Senior AI Engineer, ex-SafetyEQ, ex-Beam Data)
 
 ### Team
 | Name | Role |
@@ -58,7 +58,7 @@ Frame ElectroCom as an **AI + Development partner** — not a vendor or subcontr
 ## 3. Arslan's Personal Brand (for individual role outreach)
 
 - Senior AI Engineer, 8+ years full-stack + AI/ML
-- Y Combinator founder (Effigy.ai — AI marketing content for fashion brands)
+- Co-founded Effigy.ai (AI marketing content for fashion brands)
 - Led engineering teams at SafetyEQ (Miami, remote) and Beam Data (Canada)
 - Open to senior remote individual roles (AI engineer, CTO advisory, team lead)
 - Turing verified developer, Codility award

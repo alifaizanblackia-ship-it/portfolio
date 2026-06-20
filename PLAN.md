@@ -15,7 +15,7 @@
 - [x] Email strategy defined (`CLAUDE.md` §4)
 - [ ] Create email alias: `partnerships@electrocomit.com`
 - [ ] Google Sheet created (columns from `sheets/SCHEMA.md`)
-- [ ] LinkedIn profile optimized (Arslan: headline = "CTO @ ElectroCom IT | Senior AI Engineer | YC Founder")
+- [ ] LinkedIn profile optimized (Arslan: headline = "Chief Technology Officer | AI/ML Engineering | LLMs · RAG · AWS | 8+ Years Building at Scale")
 - [ ] ElectroCom IT LinkedIn company page reviewed and updated
 - [ ] Calendly link active (30-min discovery call, link in outreach)
 - [ ] Resend / email client configured for outreach sending
@@ -35,7 +35,7 @@
 | Job boards (LinkedIn, Wellfound, Greenhouse) | Find companies hiring senior AI engineers | Arslan |
 | Upwork / Toptal | Companies posting AI/full-stack projects > $10k | Faizan |
 | Clutch / G2 / Goodfirms | Competitor client reviews → warm leads | Faizan |
-| Referrals | Ask previous clients, YC network | Arslan |
+| Referrals | Ask previous clients, ex-colleagues network | Arslan |
 
 ### Target: 50 leads per month minimum
 - Type A (Direct Client): 20
