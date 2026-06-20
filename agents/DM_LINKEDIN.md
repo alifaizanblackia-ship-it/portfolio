@@ -61,7 +61,7 @@ Always output BOTH of the following:
 4. **One soft ask.** "Worth a quick call?" or "Open to connecting?" Never "Please respond ASAP."
 5. **Never use:** "world-class," "best in class," "I noticed your impressive profile," "I hope this message finds you well"
 6. **Never pitch features.** Pitch outcomes: "ship faster," "reduce AI infrastructure cost," "scale AI delivery"
-8. **For Partner / Anthropic Partner DMs:** always frame as a **development partnership** — use "development partner" not "vendor" or "subcontractor." The positioning is AI + Development, not just delivery.
+8. **For Partner DMs:** always frame as a **development partnership** — use "development partner" not "vendor" or "subcontractor." The positioning is AI + Development, not just delivery.
 7. **Write as Arslan personally** — "I" not "we"
 
 ---
