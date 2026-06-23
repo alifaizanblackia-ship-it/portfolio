@@ -1,0 +1,7 @@
+# Secrets and runtime state — never commit
+.venv/
+credentials.json
+token.json
+sheet_config.json
+.sheet_sync_state.json
+sync.log
