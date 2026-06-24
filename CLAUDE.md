@@ -50,6 +50,9 @@
 **Value proposition:**  
 US company accountability + offshore delivery cost → enterprise-quality output at startup-friendly rates.
 
+**Flagship credibility signal (use in EVERY pitch — DM, email, follow-up):**  
+Our CTO Arslan worked with **OpenAI in 2025 on training their video generation models** — direct, hands-on frontier generative-AI experience. Lead with this as the top AI proof point across all lead types.
+
 **Positioning for partner outreach (Type B / Type C leads):**  
 Frame ElectroCom as an **AI + Development partner** — not a vendor or subcontractor. The ask is always a development partnership, not a project quote.
 
@@ -58,6 +61,7 @@ Frame ElectroCom as an **AI + Development partner** — not a vendor or subcontr
 ## 3. Arslan's Personal Brand (for individual role outreach)
 
 - Senior AI Engineer, 8+ years full-stack + AI/ML
+- **Worked with OpenAI in 2025 on training their video generation models** — frontier generative-AI experience
 - Co-founded Effigy.ai (AI marketing content for fashion brands)
 - Led engineering teams at SafetyEQ (Miami, remote) and Beam Data (Canada)
 - Open to senior remote individual roles (AI engineer, CTO advisory, team lead)
